@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.params=x\ y\ x2\ y2
+comment0.target=SampleGamePanel(int,\ int,\ int,\ int)
+comment1.params=g
+comment1.target=void\ paintComponent(java.awt.Graphics)
+comment2.params=
+comment2.target=int\ getScore()
+comment3.params=
+comment3.target=void\ playMusic()
+comment4.params=
+comment4.target=void\ stopMusic()
+comment5.params=e
+comment5.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment6.params=e
+comment6.target=void\ keyPressed(java.awt.event.KeyEvent)
+comment7.params=e
+comment7.target=void\ keyReleased(java.awt.event.KeyEvent)
+comment8.params=e
+comment8.target=void\ keyTyped(java.awt.event.KeyEvent)
+comment9.params=
+comment9.target=void\ setScore()
+numComments=10

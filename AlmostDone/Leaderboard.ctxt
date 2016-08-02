@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Leaderboard()
+comment0.text=\n\ Constructor\ for\ objects\ of\ class\ Leaderboard\n
+comment1.params=score
+comment1.target=void\ addScore(int)
+comment2.params=
+comment2.target=void\ loadScores()
+comment3.params=
+comment3.target=void\ writeScores()
+comment4.params=
+comment4.target=java.lang.String\ display()
+numComments=5
